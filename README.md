@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laurie Eshleman</h1>
 <h3 align="center">A passionate full-stack developer from Beaverton, Oregon, USA</h3>
 
-- 🔭 I’m currently working on **EmpowerTeen**
+- 🔭 I’m currently freelancing to create a web app for a non-profit called "EmpowerTeen" in Beaverton, Oregon.  This web app will provide a safe, moderated, environment in which community professionals and Dr. Paula Pilcher can help teenagers overcome obstacles in their path to lead a fulfilling lives.
 
-- 💬 Ask me about **Javascript, React, Express, Node, MongoDB, Firebase**
+- 💬 Ask me about **Javascript, React, Express, Node, MongoDB, Firebase, SQL.
 
 - 📫 How to reach me **laurie.eshleman@microskill.biz**
 
