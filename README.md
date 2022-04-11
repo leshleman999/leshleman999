@@ -10,7 +10,7 @@
 <h1>Check out my projects</h1>
 <div class="projects" style="display:flex">
 <h2><a href='https://leshleman999.github.io/map-it/' target='_blank'>Map it!</a></h2>
-<h2><a href='https://leshleman999.github.io/pomodora-timer/' target='_blank'>Pomodoro Timer</a></h2>
+<h2><a href='https://leshleman999.github.io/pomodoro/' target='_blank'>Pomodoro Timer</a></h2>
 <h2><a href='https://leshleman999.github.io/form-validation/' target='_blank'>Form Validation</a></h2>
  </div>
 <h3 align="left">Languages and Tools:</h3>
