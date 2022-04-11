@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **laurie.eshleman@microskill.biz**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/laurie eshleman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laurie eshleman" height="30" width="40" /></a>
-</p>
 <h1>Check out my projects</h1>
 <div class="projects" style="display:flex">
 <h2><a href='https://leshleman999.github.io/map-it/' target='_blank'>Map it!</a></h2>
