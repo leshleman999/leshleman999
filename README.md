@@ -9,6 +9,7 @@
 
 <h1>Check out my projects</h1>
 <div class="projects" style="display:flex">
+<h2 class="project"><a href='https://leshleman999.github.io/amazon-app/' target='_blank'>Amazon App</a></h2>
 <h2 class="project"><a href='https://leshleman999.github.io/map-it/'  target='_blank'>Map it!</a></h2>
 <h2 class="project"><a href='https://leshleman999.github.io/pomodoro/' target='_blank'>Pomodoro Timer</a></h2>
 <h2 class="project"><a href='https://leshleman999.github.io/form-validation/' target='_blank'>Form Validation</a></h2>
